@@ -1,4 +1,4 @@
-﻿# CSE325-2026-L02-M4RB-T1
+# CSE325-2026-L02-M4RB-T1
 
 QUALITY_BASELINE = "grade-report-baseline"
 
